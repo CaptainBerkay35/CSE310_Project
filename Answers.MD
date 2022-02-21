@@ -13,3 +13,5 @@ It is the command that used for update the old file with new changes from remote
 Q.4) What does the git clone command do?
 The git clone command creates a copy of an existing repository.
 
+All the questions have been answered by 11:16.
+
